@@ -6,15 +6,15 @@ Math Game
 
 Idea
 -------------
-The goal was to make a platform game using Maths curves as the main gameplay element.
+Goal: Make a platform game using Maths curves as the main gameplay element.
 
-![gif](resReadme/IHateMath.gif)
+<!-- ![gif](resReadme/IHateMath.gif)
 
 <img src="resReadme/in-game1.png" alt="In-game img" width="75%" />
 <img src="resReadme/in-game2.png" alt="In-game img" width="75%" />
 <img src="resReadme/in-game3.png" alt="In-game img" width="75%" />
 
-
+ -->
 
 How to play
 -------------------
@@ -130,8 +130,8 @@ You just have to run the project (i.e. open "ProjetMath.cbp" )
 <img src="resReadme/include_cb.png" alt="Include codeblocks option" width="80%" />
 
 
-License
+<!-- License
 ------------
-GPL
+GPL -->
 
 
